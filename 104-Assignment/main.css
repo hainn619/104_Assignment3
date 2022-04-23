@@ -1,0 +1,9 @@
+.site-header {
+    display: flex;
+    ;
+    justify-content: space-between;
+    height: 40vh;
+    background-color: url(img/bgheader.jpg);
+    background-position: center center;
+    
+}
